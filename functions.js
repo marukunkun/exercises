@@ -79,3 +79,7 @@ let value1 = prompt("What is x value ?", '');
 let value2 = prompt("What is n value ?", '');
 
 console.log(pow(value1,value2))
+
+
+
+        // exercises taken from javascript.info
